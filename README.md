@@ -150,8 +150,8 @@ Pengembangan aplikasi ini bertujuan untuk menerapkan konsep pemrograman berorien
 
 ---
 
-\<p align="center">
-&#x20; \<b>APK Perpustakaan Digital\</b>
-&#x20; \<br>
-&#x20; Developed with ❤️ using Python
-\</p>
+<p align="center">
+  <strong>APK Perpustakaan Digital</strong>
+  <br>
+  Developed with ❤️ using Python
+</p>
