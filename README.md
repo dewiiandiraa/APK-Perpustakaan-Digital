@@ -21,18 +21,17 @@ Aplikasi ini memiliki sistem hak akses pengguna sehingga setiap pengguna dapat m
 - 📚 **Manajemen Buku** — Pengelolaan data dan informasi koleksi buku.
 - 👥 **Manajemen Anggota** — Pengelolaan data anggota perpustakaan.
 - 📋 **Peminjaman Buku** — Pengelolaan proses peminjaman buku.
-- 🔄 **Pengembalian Buku** — Pengelolaan proses pengembalian buku.
 - 📊 **Riwayat Peminjaman** — Melihat informasi riwayat peminjaman.
 
 ## 👤 Hak Akses Pengguna
 
 Aplikasi memiliki tiga jenis pengguna dengan hak akses yang berbeda.
 
-| Pengguna     | Hak Akses                                                       |
-| ------------ | --------------------------------------------------------------- |
-| **Operator** | Mengelola data buku, petugas, dan anggota.                      |
-| **Petugas**  | Mengelola peminjaman, detail peminjaman, dan pengembalian buku. |
-| **Anggota**  | Melihat katalog buku, detail buku, dan riwayat peminjaman.      |
+| Pengguna     | Hak Akses                                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------- |
+| **Operator** | Mengelola data buku, petugas, dan anggota, serta melihat transaksi peminjaman dan laporan.              |
+| **Petugas**  | Mengelola anggota, peminjaman, detail peminjaman, dan laporan serta melihat data petugas dan buku.      |
+| **Anggota**  | Melihat katalog buku, detail buku, dan riwayat peminjaman.                                              |
 
 ## 🛠️ Teknologi yang Digunakan
 
