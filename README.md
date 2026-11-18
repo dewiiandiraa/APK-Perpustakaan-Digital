@@ -1,10 +1,13 @@
 # 📚 APK Perpustakaan Digital
 
-\<p align="center">   \<b>Aplikasi Pengelolaan Perpustakaan Digital\</b>   \<br>   Sistem informasi perpustakaan untuk membantu pengelolaan buku, anggota, dan peminjaman secara terstruktur. \</p>
+**Aplikasi Pengelolaan Perpustakaan Digital**
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.12-blue?logo=python](https://img.shields.io/badge/Python-3.12-blue?logo=python)" />   \<img src="[https://img.shields.io/badge/Database-MySQL-orange?logo=mysql](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)" />   \<img src="[https://img.shields.io/badge/Interface-Tkinter-blue](https://img.shields.io/badge/Interface-Tkinter-blue)" />   \<img src="[https://img.shields.io/badge/Status-Development-yellow](https://img.shields.io/badge/Status-Development-yellow)" /> \</p>
+Sistem informasi perpustakaan untuk membantu pengelolaan buku, anggota, dan peminjaman secara terstruktur.
 
----
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
+![Tkinter](https://img.shields.io/badge/Interface-Tkinter-blue)
+![Development](https://img.shields.io/badge/Status-Development-yellow)
 
 ## 📖 Tentang Proyek
 
